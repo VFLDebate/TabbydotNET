@@ -1,6 +1,6 @@
 ﻿namespace TabbydotNET
 {
-    public class TabbyAPI
+    public class TabbyApi
     {
         
     }

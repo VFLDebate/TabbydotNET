@@ -4,7 +4,10 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>TabbyAPI</RootNamespace>
+        <Authors>HexaBinary</Authors>
+        <PackageProjectUrl>https://github.com/VFLDebate/TabbydotNET</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/VFLDebate/TabbydotNET</RepositoryUrl>
+        <Company>VFLDebate</Company>
     </PropertyGroup>
 
     <ItemGroup>

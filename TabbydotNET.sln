@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbydotNET", "TabbydotNET\TabbydotNET.csproj", "{A2A146D4-6069-4330-BB57-328DBF5618B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbyImport", "TabbyImport\TabbyImport.csproj", "{95295771-08F8-4646-8E60-EDF6E5B8A042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbyAPITest", "TabbyAPITest\TabbyAPITest.csproj", "{19FE6533-8FD8-43E5-91CA-E26621894D30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{A2A146D4-6069-4330-BB57-328DBF5618B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A146D4-6069-4330-BB57-328DBF5618B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A146D4-6069-4330-BB57-328DBF5618B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95295771-08F8-4646-8E60-EDF6E5B8A042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95295771-08F8-4646-8E60-EDF6E5B8A042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95295771-08F8-4646-8E60-EDF6E5B8A042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95295771-08F8-4646-8E60-EDF6E5B8A042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FE6533-8FD8-43E5-91CA-E26621894D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FE6533-8FD8-43E5-91CA-E26621894D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FE6533-8FD8-43E5-91CA-E26621894D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FE6533-8FD8-43E5-91CA-E26621894D30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
