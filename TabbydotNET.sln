@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbyAPI", "TabbyAPI\TabbyAPI.csproj", "{A2A146D4-6069-4330-BB57-328DBF5618B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbydotNET", "TabbydotNET\TabbydotNET.csproj", "{A2A146D4-6069-4330-BB57-328DBF5618B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
