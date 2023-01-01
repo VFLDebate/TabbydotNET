@@ -10,8 +10,4 @@
         <Company>VFLDebate</Company>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="Schemas" />
-    </ItemGroup>
-
 </Project>

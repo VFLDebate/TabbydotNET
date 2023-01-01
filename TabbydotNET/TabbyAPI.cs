@@ -1,4 +1,6 @@
-﻿namespace TabbydotNET
+﻿
+
+namespace TabbydotNET
 {
     public class TabbyApi
     {
